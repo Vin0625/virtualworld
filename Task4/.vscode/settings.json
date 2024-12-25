@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "task3.sln"
+    "dotnet.defaultSolution": "Task4.sln"
 }
